@@ -249,7 +249,7 @@
 
   badge.innerHTML = `
     <div id="orbit-badge-popup">
-      <h3>Need a website like this?</h3>
+      <h3>want a website of your own?</h3>
       <p>Contact me the way that suits you best!</p>
 
       <div id="orbit-badge-links">
